@@ -32,9 +32,9 @@ So there needs to be scientific quality assessment of grains. Hence this researc
 
 Although the e-NAM covers some 28 commodities at present, we cannot hope to develop a solution for all 28 at once. So we are starting with the two most widely traded commodities - paddy and wheat. 
 
-The quality parameters for paddy can be found (a href="http://www.enam.gov.in/NAM/infrastructure/Paddy.pdf">here</a>. 
+The quality parameters for paddy can be found <a href="http://www.enam.gov.in/NAM/infrastructure/Paddy.pdf">here</a>. 
 
-The quality parameters for wheat can be found (a href="http://www.enam.gov.in/NAM/infrastructure/Wheat.pdf">here</a>. 
+The quality parameters for wheat can be found <a href="http://www.enam.gov.in/NAM/infrastructure/Wheat.pdf">here</a>. 
 
 Although some technologies are available for this, but they are very expensive, cumbersome and require the movement of grain to a laboratory for assaying. But given the rush in the mandi during peak season and availability of resources, such solutions are not easily implementable. So the solution we develop has to compete against the ease, scale, cost and accuracy of the present "fist system of assaying". 
 
